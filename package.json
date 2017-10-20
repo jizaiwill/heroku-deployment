@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/jizaiwill/heroku-deployment.git"
   },
-  "author": "James Williams",
+  "author": "jizaiwill",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jizaiwill/heroku-deployment/issues"
