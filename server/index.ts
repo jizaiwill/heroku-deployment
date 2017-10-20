@@ -2,7 +2,7 @@ import { join } from "path";
 import * as express from "express";
 
 // tslint:disable:typedef
-const clientPath = join(__dirname, "..client");
+const clientPath = join(__dirname, "../client");
 const app = express();
 
 app.use(express.static(clientPath));
